@@ -1,0 +1,26 @@
+{
+  "login": [],
+  "signup": [
+    {
+      "firstName": "Ayush",
+      "lastName": "Anand",
+      "email": "ayush@gmail.com",
+      "password": "1",
+      "id": 1
+    },
+    {
+      "firstName": "Om",
+      "lastName": "Babu",
+      "email": "admin",
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "firstName": "Demo",
+      "lastName": "Demo",
+      "email": "Demo@gmial.com",
+      "password": "Demo",
+      "id": 3
+    }
+  ]
+}
